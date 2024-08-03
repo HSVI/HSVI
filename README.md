@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Haitham Saleh</h1>
-<h3 align="center">Data Science and Business Analytics student at the University of London (LSE)</h3>
+<h3 align="center">ML enthusiast, Data Science and Business Analytics student at the University of London (LSE)</h3>
 
 - 🌱 I’m currently learning **Python, R and Java**
 
